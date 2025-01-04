@@ -26,7 +26,7 @@ const Header = () => {
                 textDecoration: 'none',
               }}
             >
-              Jagdamba Refrigeration 
+              Jagdamba Refrigeration
             </Typography>
           </Box>
         </Toolbar>
